@@ -1,4 +1,4 @@
-#Python RPS Game
+#Python RPS Game by Ben/Kirbbeanss
 import random
 
 #Getting our player input
